@@ -5,17 +5,22 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public float velocidad;
+    public float fuerzaDeSalto;
     Vector2 move;
     public PlayerControls inputs;
     PlayerController controller;
+    Rigidbody2D rigPersonaje;
+    public bool tocandoSuelo;
 
     void Start()
     {
         controller = GameObject.Find("Main Camera").GetComponent<PlayerController>();
+        rigPersonaje = GetComponent<Rigidbody2D>();
         PlayerControls inputs = new PlayerControls();
         inputs.Enable();
         inputs.Controller.Movement.performed += ctx => Move(ctx.ReadValue<float>());
         inputs.Controller.Movement.canceled += ctx => StopMove();
+        inputs.Controller.Jump.performed += ctx => Jump();
     }
 
    
@@ -42,6 +47,16 @@ public class PlayerMovement : MonoBehaviour
         move.x = 0f;
     }
 
+    public void Jump()
+    {
+        if(tocandoSuelo)
+        {
+            tocandoSuelo = false;
+            rigPersonaje.AddForce(Vector2.up * fuerzaDeSalto , ForceMode2D.Impulse);
+        }
+        
+    }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Enemie"))
@@ -49,5 +64,12 @@ public class PlayerMovement : MonoBehaviour
             controller.life -= 5f;
             controller.VerConjuntoDifuso();
         }
+
+        if(collision.gameObject.CompareTag("Piso"))
+        {
+            tocandoSuelo = true;
+        }
     }
+
+   
 }

@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     public float life;
     void Start()
     {
-       
+        VerConjuntoDifuso();
     }
 
     
