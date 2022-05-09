@@ -44,6 +44,15 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""Punch"",
+                    ""type"": ""Button"",
+                    ""id"": ""ee94ec27-8890-4b6f-927a-242514c7324d"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -90,6 +99,17 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
                     ""action"": ""Jump"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""50af8461-688e-49f1-ab0d-dcc0a4312bea"",
+                    ""path"": ""<Keyboard>/c"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Player"",
+                    ""action"": ""Punch"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 }
             ]
         }
@@ -112,6 +132,7 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
         m_Controller = asset.FindActionMap("Controller", throwIfNotFound: true);
         m_Controller_Movement = m_Controller.FindAction("Movement", throwIfNotFound: true);
         m_Controller_Jump = m_Controller.FindAction("Jump", throwIfNotFound: true);
+        m_Controller_Punch = m_Controller.FindAction("Punch", throwIfNotFound: true);
     }
 
     public void Dispose()
@@ -173,12 +194,14 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
     private IControllerActions m_ControllerActionsCallbackInterface;
     private readonly InputAction m_Controller_Movement;
     private readonly InputAction m_Controller_Jump;
+    private readonly InputAction m_Controller_Punch;
     public struct ControllerActions
     {
         private @PlayerControls m_Wrapper;
         public ControllerActions(@PlayerControls wrapper) { m_Wrapper = wrapper; }
         public InputAction @Movement => m_Wrapper.m_Controller_Movement;
         public InputAction @Jump => m_Wrapper.m_Controller_Jump;
+        public InputAction @Punch => m_Wrapper.m_Controller_Punch;
         public InputActionMap Get() { return m_Wrapper.m_Controller; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -194,6 +217,9 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
                 @Jump.started -= m_Wrapper.m_ControllerActionsCallbackInterface.OnJump;
                 @Jump.performed -= m_Wrapper.m_ControllerActionsCallbackInterface.OnJump;
                 @Jump.canceled -= m_Wrapper.m_ControllerActionsCallbackInterface.OnJump;
+                @Punch.started -= m_Wrapper.m_ControllerActionsCallbackInterface.OnPunch;
+                @Punch.performed -= m_Wrapper.m_ControllerActionsCallbackInterface.OnPunch;
+                @Punch.canceled -= m_Wrapper.m_ControllerActionsCallbackInterface.OnPunch;
             }
             m_Wrapper.m_ControllerActionsCallbackInterface = instance;
             if (instance != null)
@@ -204,6 +230,9 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
                 @Jump.started += instance.OnJump;
                 @Jump.performed += instance.OnJump;
                 @Jump.canceled += instance.OnJump;
+                @Punch.started += instance.OnPunch;
+                @Punch.performed += instance.OnPunch;
+                @Punch.canceled += instance.OnPunch;
             }
         }
     }
@@ -221,5 +250,6 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
     {
         void OnMovement(InputAction.CallbackContext context);
         void OnJump(InputAction.CallbackContext context);
+        void OnPunch(InputAction.CallbackContext context);
     }
 }

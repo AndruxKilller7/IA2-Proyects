@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: ef823248fe3e3b94ea249f5107effcf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2158200963275342538
+    second: Enemie1TestAnimAttack_0
+  - first:
+      213: 5969979319904708023
+    second: Enemie1TestAnimAttack_1
+  - first:
+      213: -3536119596685955744
+    second: Enemie1TestAnimAttack_2
+  - first:
+      213: -6355563596543562260
+    second: Enemie1TestAnimAttack_3
+  - first:
+      213: -5267043988872801681
+    second: Enemie1TestAnimAttack_4
+  - first:
+      213: 7037441748183339184
+    second: Enemie1TestAnimAttack_5
+  - first:
+      213: -746925955936916167
+    second: Enemie1TestAnimAttack_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemie1TestAnimAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 152
+        height: 249
+      alignment: 9
+      pivot: {x: 0.2605392, y: 0.5110025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d311698a78c02e0800000000000000
+      internalID: -2158200963275342538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnimAttack_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 434
+        width: 167
+        height: 258
+      alignment: 9
+      pivot: {x: 0.35133532, y: 0.48250395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b52957af80a9d250800000000000000
+      internalID: 5969979319904708023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnimAttack_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 437
+        width: 185
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d6c3446fd2deec0800000000000000
+      internalID: -3536119596685955744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnimAttack_3
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 434
+        width: 254
+        height: 256
+      alignment: 9
+      pivot: {x: 0.42447066, y: 0.51983714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceded9805908cc7a0800000000000000
+      internalID: -6355563596543562260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnimAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 435
+        width: 165
+        height: 257
+      alignment: 9
+      pivot: {x: 0.47948182, y: 0.5065868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6251eae563b7e6b0800000000000000
+      internalID: -5267043988872801681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnimAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 437
+        width: 237
+        height: 245
+      alignment: 9
+      pivot: {x: 0.38810274, y: 0.49309108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0d8f7ebf30aa160800000000000000
+      internalID: 7037441748183339184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnimAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 436
+        width: 155
+        height: 256
+      alignment: 9
+      pivot: {x: 0.3798702, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d6cdaecc262a5f0800000000000000
+      internalID: -746925955936916167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

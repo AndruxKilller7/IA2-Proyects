@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Enemie
   - Piso
+  - Punch
+  - PunchP
   layers:
   - Default
   - TransparentFX

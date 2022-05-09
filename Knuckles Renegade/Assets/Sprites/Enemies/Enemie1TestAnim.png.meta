@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: b8ef88c9396b4df4f8800b94d0057014
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3981758564482094911
+    second: Enemie1TestAnim_0
+  - first:
+      213: -4508252213028690233
+    second: Enemie1TestAnim_1
+  - first:
+      213: 3456433161563911299
+    second: Enemie1TestAnim_2
+  - first:
+      213: 5317631963973127841
+    second: Enemie1TestAnim_3
+  - first:
+      213: -8834754519975146647
+    second: Enemie1TestAnim_4
+  - first:
+      213: 3379235137163496075
+    second: Enemie1TestAnim_5
+  - first:
+      213: 7500378435238075432
+    second: Enemie1TestAnim_6
+  - first:
+      213: -2188159650731285480
+    second: Enemie1TestAnim_7
+  - first:
+      213: -6452264580070253157
+    second: Enemie1TestAnim_8
+  - first:
+      213: 6087242668977350034
+    second: Enemie1TestAnim_9
+  - first:
+      213: 5500666323247954912
+    second: Enemie1TestAnim_10
+  - first:
+      213: 3744992574765340086
+    second: Enemie1TestAnim_11
+  - first:
+      213: 6684476141992980605
+    second: Enemie1TestAnim_12
+  - first:
+      213: 3345513579049680652
+    second: Enemie1TestAnim_13
+  - first:
+      213: -1538626580779830338
+    second: Enemie1TestAnim_14
+  - first:
+      213: -8152571371296104431
+    second: Enemie1TestAnim_15
+  - first:
+      213: 7967448437059376349
+    second: Enemie1TestAnim_16
+  - first:
+      213: -5234338883283098029
+    second: Enemie1TestAnim_17
+  - first:
+      213: 861207998021989466
+    second: Enemie1TestAnim_18
+  - first:
+      213: -3827830039876066673
+    second: Enemie1TestAnim_19
+  - first:
+      213: -2531207381931637933
+    second: Enemie1TestAnim_20
+  - first:
+      213: 409504222865937640
+    second: Enemie1TestAnim_21
+  - first:
+      213: -1145480131983559866
+    second: Enemie1TestAnim_22
+  - first:
+      213: 5722657392016128893
+    second: Enemie1TestAnim_23
+  - first:
+      213: -2518608278114365073
+    second: Enemie1TestAnim_24
+  - first:
+      213: -442689979503039271
+    second: Enemie1TestAnim_25
+  - first:
+      213: 8508904105938388097
+    second: Enemie1TestAnim_26
+  - first:
+      213: -4492636355822987556
+    second: Enemie1TestAnim_27
+  - first:
+      213: 1728498189890280445
+    second: Enemie1TestAnim_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemie1TestAnim_0
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2075
+        width: 222
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8ecae8ea3fdb8c0800000000000000
+      internalID: -3981758564482094911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_1
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2074
+        width: 222
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c66e8c7f787f61c0800000000000000
+      internalID: -4508252213028690233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_2
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 2061
+        width: 226
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384b5e0c5a7b7ff20800000000000000
+      internalID: 3456433161563911299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_3
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 2064
+        width: 222
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae81e2e8160cc940800000000000000
+      internalID: 5317631963973127841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_4
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 2045
+        width: 232
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bca179295a46580800000000000000
+      internalID: -8834754519975146647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_5
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 2021
+        width: 229
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a062b047475ee20800000000000000
+      internalID: 3379235137163496075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1514
+        width: 213
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c9d59b272b61860800000000000000
+      internalID: 7500378435238075432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_7
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1516
+        width: 166
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814a15a146812a1e0800000000000000
+      internalID: -2188159650731285480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_8
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1506
+        width: 199
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dd31ccc83f476a0800000000000000
+      internalID: -6452264580070253157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_9
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1527
+        width: 211
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295eef1b4fa3a7450800000000000000
+      internalID: 6087242668977350034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_10
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1551
+        width: 220
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebf52190ea465c40800000000000000
+      internalID: 5500666323247954912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_11
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 1567
+        width: 227
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b51d59a7e2e8f330800000000000000
+      internalID: 3744992574765340086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1078
+        width: 225
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70b011a2a704cc50800000000000000
+      internalID: 6684476141992980605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_13
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1086
+        width: 231
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f7086ffd6ad6e20800000000000000
+      internalID: 3345513579049680652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_14
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1084
+        width: 228
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3f4aad643b5aae0800000000000000
+      internalID: -1538626580779830338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_15
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1084
+        width: 227
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11060ef288f3cde80800000000000000
+      internalID: -8152571371296104431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_16
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 1077
+        width: 226
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd45a21e320129e60800000000000000
+      internalID: 7967448437059376349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_17
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 1068
+        width: 227
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35665e3b484eb57b0800000000000000
+      internalID: -5234338883283098029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 554
+        width: 227
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5473df7c10a3fb00800000000000000
+      internalID: 861207998021989466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_19
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 538
+        width: 224
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f822e940cd0d0eac0800000000000000
+      internalID: -3827830039876066673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_20
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 528
+        width: 214
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3534e1b0c485fdcd0800000000000000
+      internalID: -2531207381931637933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_21
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 527
+        width: 149
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e452f9cbe9dea500800000000000000
+      internalID: 409504222865937640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_22
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 520
+        width: 195
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6433ad393ef6a10f0800000000000000
+      internalID: -1145480131983559866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_23
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 527
+        width: 207
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b726ef396fa6f40800000000000000
+      internalID: 5722657392016128893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_24
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 70
+        width: 225
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6192ae7d1b1c0dd0800000000000000
+      internalID: -2518608278114365073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_25
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 86
+        width: 230
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dca8122fcf3bd9f0800000000000000
+      internalID: -442689979503039271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_26
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 93
+        width: 230
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1840256c333b51670800000000000000
+      internalID: 8508904105938388097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_27
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 102
+        width: 222
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd65a229903f6a1c0800000000000000
+      internalID: -4492636355822987556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemie1TestAnim_28
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 101
+        width: 224
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbd05b12fbdcf710800000000000000
+      internalID: 1728498189890280445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

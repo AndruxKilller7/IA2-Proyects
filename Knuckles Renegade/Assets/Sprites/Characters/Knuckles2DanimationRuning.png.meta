@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 4a11754aabd079146a6e7eb40def2717
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4137864025814797457
+    second: Knuckles2DanimationRuning_0
+  - first:
+      213: -8359761068568764962
+    second: Knuckles2DanimationRuning_1
+  - first:
+      213: 5120005886692439062
+    second: Knuckles2DanimationRuning_2
+  - first:
+      213: -2769816115253358336
+    second: Knuckles2DanimationRuning_3
+  - first:
+      213: 4203406531329352802
+    second: Knuckles2DanimationRuning_4
+  - first:
+      213: 1114519053147876819
+    second: Knuckles2DanimationRuning_5
+  - first:
+      213: 8378884707314076029
+    second: Knuckles2DanimationRuning_6
+  - first:
+      213: -1854790512376821725
+    second: Knuckles2DanimationRuning_7
+  - first:
+      213: -4874958158547385338
+    second: Knuckles2DanimationRuning_8
+  - first:
+      213: 5935449522724414032
+    second: Knuckles2DanimationRuning_9
+  - first:
+      213: -3264871224794594774
+    second: Knuckles2DanimationRuning_10
+  - first:
+      213: 7158597235725152675
+    second: Knuckles2DanimationRuning_11
+  - first:
+      213: 5646279900062340176
+    second: Knuckles2DanimationRuning_12
+  - first:
+      213: 3472304124112911012
+    second: Knuckles2DanimationRuning_13
+  - first:
+      213: -6610656289925541456
+    second: Knuckles2DanimationRuning_14
+  - first:
+      213: -6126984180354387586
+    second: Knuckles2DanimationRuning_15
+  - first:
+      213: -957949144279810604
+    second: Knuckles2DanimationRuning_16
+  - first:
+      213: -7461126576479507685
+    second: Knuckles2DanimationRuning_17
+  - first:
+      213: -3922197093261783195
+    second: Knuckles2DanimationRuning_18
+  - first:
+      213: -807185322417436884
+    second: Knuckles2DanimationRuning_19
+  - first:
+      213: -756995543458108230
+    second: Knuckles2DanimationRuning_20
+  - first:
+      213: -8437209414560211994
+    second: Knuckles2DanimationRuning_21
+  - first:
+      213: -7503068197007130985
+    second: Knuckles2DanimationRuning_22
+  - first:
+      213: -1019060016444744470
+    second: Knuckles2DanimationRuning_23
+  - first:
+      213: 1531734611708705977
+    second: Knuckles2DanimationRuning_24
+  - first:
+      213: 5496210746748672827
+    second: Knuckles2DanimationRuning_25
+  - first:
+      213: -3076063093580504106
+    second: Knuckles2DanimationRuning_26
+  - first:
+      213: -6859640421966665510
+    second: Knuckles2DanimationRuning_27
+  - first:
+      213: 4146656642160586857
+    second: Knuckles2DanimationRuning_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3002
+        width: 399
+        height: 437
+      alignment: 9
+      pivot: {x: 0.5413484, y: 0.5566289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63f074879a5396c0800000000000000
+      internalID: -4137864025814797457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_1
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2999
+        width: 418
+        height: 440
+      alignment: 9
+      pivot: {x: 0.5236812, y: 0.5618669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd91dc99992cfb80800000000000000
+      internalID: -8359761068568764962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_2
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2999
+        width: 435
+        height: 440
+      alignment: 9
+      pivot: {x: 0.54930407, y: 0.55624276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614363c1a3aed0740800000000000000
+      internalID: 5120005886692439062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_3
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 2999
+        width: 435
+        height: 440
+      alignment: 9
+      pivot: {x: 0.5574112, y: 0.56191903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001db251be2af89d0800000000000000
+      internalID: -2769816115253358336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_4
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 2993
+        width: 425
+        height: 446
+      alignment: 9
+      pivot: {x: 0.5516395, y: 0.5678733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264617a38ff755a30800000000000000
+      internalID: 4203406531329352802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_5
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 2917
+        width: 431
+        height: 460
+      alignment: 9
+      pivot: {x: 0.59130573, y: 0.57238877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dda8428c21977f00800000000000000
+      internalID: 1114519053147876819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2167
+        width: 467
+        height: 456
+      alignment: 9
+      pivot: {x: 0.50952, y: 0.55849737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7988618f37c74470800000000000000
+      internalID: 8378884707314076029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_7
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2153
+        width: 413
+        height: 457
+      alignment: 9
+      pivot: {x: 0.4822556, y: 0.53783697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328c3092bd57246e0800000000000000
+      internalID: -1854790512376821725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_8
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 2147
+        width: 442
+        height: 480
+      alignment: 9
+      pivot: {x: 0.44473335, y: 0.5746404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60404e8226ba85cb0800000000000000
+      internalID: -4874958158547385338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_9
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2150
+        width: 433
+        height: 497
+      alignment: 9
+      pivot: {x: 0.42289892, y: 0.62779117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0522040c4e3fe5250800000000000000
+      internalID: 5935449522724414032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_10
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 2190
+        width: 424
+        height: 479
+      alignment: 9
+      pivot: {x: 0.5115961, y: 0.5944289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2249b84be8d0b2d0800000000000000
+      internalID: -3264871224794594774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_11
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 2208
+        width: 440
+        height: 469
+      alignment: 9
+      pivot: {x: 0.511175, y: 0.58805615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1bd7d0242785360800000000000000
+      internalID: 7158597235725152675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1519
+        width: 459
+        height: 459
+      alignment: 9
+      pivot: {x: 0.54850763, y: 0.5670544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054d4a167ad9b5e40800000000000000
+      internalID: 5646279900062340176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_13
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1510
+        width: 435
+        height: 464
+      alignment: 9
+      pivot: {x: 0.4713971, y: 0.5733882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aabfdd243a103030800000000000000
+      internalID: 3472304124112911012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_14
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1559
+        width: 419
+        height: 423
+      alignment: 9
+      pivot: {x: 0.5421979, y: 0.51083624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b159ca012b3244a0800000000000000
+      internalID: -6610656289925541456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_15
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1543
+        width: 431
+        height: 429
+      alignment: 9
+      pivot: {x: 0.5227901, y: 0.5427405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71f981a95498faa0800000000000000
+      internalID: -6126984180354387586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_16
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 1539
+        width: 434
+        height: 430
+      alignment: 9
+      pivot: {x: 0.51075625, y: 0.53799707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddff46245ea4b2f0800000000000000
+      internalID: -957949144279810604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_17
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 1518
+        width: 444
+        height: 441
+      alignment: 9
+      pivot: {x: 0.52453226, y: 0.5599844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b66b0d8e0c47890800000000000000
+      internalID: -7461126576479507685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 463
+        height: 451
+      alignment: 9
+      pivot: {x: 0.52268356, y: 0.56597954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fcf0d368e8199c0800000000000000
+      internalID: -3922197093261783195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_19
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 739
+        width: 492
+        height: 454
+      alignment: 9
+      pivot: {x: 0.4985679, y: 0.5620781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c274665d93d4cc4f0800000000000000
+      internalID: -807185322417436884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_20
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 737
+        width: 430
+        height: 454
+      alignment: 9
+      pivot: {x: 0.5, y: 0.56828594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc20af509c9e75f0800000000000000
+      internalID: -756995543458108230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_21
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 682
+        width: 408
+        height: 462
+      alignment: 9
+      pivot: {x: 0.4944087, y: 0.5531586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb9e8d5db209ea80800000000000000
+      internalID: -8437209414560211994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_22
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 667
+        width: 397
+        height: 512
+      alignment: 9
+      pivot: {x: 0.48890913, y: 0.61179364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79efbdf4a3fbfd790800000000000000
+      internalID: -7503068197007130985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_23
+      rect:
+        serializedVersion: 2
+        x: 3769
+        y: 676
+        width: 396
+        height: 500
+      alignment: 9
+      pivot: {x: 0.48304948, y: 0.6044208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd10370529bd1f0800000000000000
+      internalID: -1019060016444744470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 390
+        height: 475
+      alignment: 9
+      pivot: {x: 0.50945634, y: 0.5879932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc711d8380d14510800000000000000
+      internalID: 1531734611708705977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_25
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 22
+        width: 396
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5061792, y: 0.56960803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b93a2dd86764c40800000000000000
+      internalID: 5496210746748672827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_26
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 45
+        width: 410
+        height: 440
+      alignment: 9
+      pivot: {x: 0.5238728, y: 0.5593212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3e1700ae0af45d0800000000000000
+      internalID: -3076063093580504106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_27
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 53
+        width: 411
+        height: 438
+      alignment: 9
+      pivot: {x: 0.5238147, y: 0.5502806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad824c15169adc0a0800000000000000
+      internalID: -6859640421966665510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuckles2DanimationRuning_28
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 69
+        width: 409
+        height: 436
+      alignment: 9
+      pivot: {x: 0.52393115, y: 0.5448991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960fe710f32eb8930800000000000000
+      internalID: 4146656642160586857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
