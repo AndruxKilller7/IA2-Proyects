@@ -116,9 +116,10 @@ public class PlayerMovement : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Punch"))
         {
-            controller.life -= 5f;
-            controller.angry += 9f;
+            controller.life -= 2f;
+            controller.angry += 5f;
             controller.VerConjuntoDifuso();
+            controller.VerConjuntoDifuso2();
         }
     }
 

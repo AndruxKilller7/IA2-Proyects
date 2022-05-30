@@ -20,7 +20,7 @@ public class SpawnEnemies : MonoBehaviour
         if(cantidad<15)
         {
             tiempoDeSpawn += 0.01f*Time.deltaTime;
-            if(tiempoDeSpawn>=0.02f)
+            if(tiempoDeSpawn>=0.06f)
             {
                 SpawnSystem();
             }

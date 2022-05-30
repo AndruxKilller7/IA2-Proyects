@@ -98,7 +98,7 @@ public class EnemieController : MonoBehaviour
             defenceA = true;
         }
 
-        if(playerController.life<50f)
+        if(playerController.membership=="POCO" || playerController.membership == "MEDIO")
         {
             personaje.color = Color.green;
             animController.SetBool("RunP", true);
@@ -114,7 +114,7 @@ public class EnemieController : MonoBehaviour
 
         if (defenceA == false && detectado)
         {
-            if (playerController.angry > 60)
+            if (playerController.membership2=="MUCHO")
             {
                 defenceState = true;
                 animController.SetBool("Defence", true);

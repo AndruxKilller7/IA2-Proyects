@@ -9,6 +9,8 @@ public class PlayerController : MonoBehaviour
     public Image barAngry;
     public float life;
     public float angry;
+    public string membership;
+    public string membership2;
     void Start()
     {
         VerConjuntoDifuso();
@@ -38,6 +40,8 @@ public class PlayerController : MonoBehaviour
     public void VerConjuntoDifuso()
     {
         ConjuntosDifusos controller = new ConjuntosDifusos(life);
+        membership = controller.Analysis();
+
         Debug.Log(controller.Analysis());
         Debug.Log(controller.memb1);
         Debug.Log(controller.memb2);
@@ -48,6 +52,7 @@ public class PlayerController : MonoBehaviour
     {
 
         ConjuntosDifusos controller = new ConjuntosDifusos(angry);
+        membership2 = controller.Analysis();
         Debug.Log(controller.Analysis());
         Debug.Log(controller.memb1);
         Debug.Log(controller.memb2);
