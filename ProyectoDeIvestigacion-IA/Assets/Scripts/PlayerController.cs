@@ -55,9 +55,16 @@ public class PlayerController : MonoBehaviour
 
             if (distancia < distanciaDeArmas)
             {
+                agent.speed = 100f;
                 agent.SetDestination(guns.transform.position);
             }
             
+        }
+
+        if(tomarArmas)
+        {
+            transform.LookAt(enemy.transform.position);
+            agent.SetDestination(transform.position);
         }
        
        
