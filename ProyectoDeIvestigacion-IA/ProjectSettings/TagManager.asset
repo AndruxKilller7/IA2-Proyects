@@ -8,6 +8,10 @@ TagManager:
   - HeadEnemy
   - EnemyBody
   - GunBullet
+  - PlayerEyes
+  - Suelo
+  - CubeR
+  - BagBox
   layers:
   - Default
   - TransparentFX

@@ -2,15 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Estequeome : MonoBehaviour
+public class Estequeome 
 {
 
-    public float velocidad;
-    public float distaciaParaHuir;
-    public int elemento1;
-    public int elemento2;
-    public int productoDeElemento1;
-    public int productoDeElemento2;
+
+
     public float incognita;
     public float valorQueSeTiene;
     public float coeficienteEstequeometrico1;
@@ -22,23 +18,21 @@ public class Estequeome : MonoBehaviour
     public int valencia2;
     public int valencia1p;
     public int valencia2p;
+    public int productiCoeficiente2;
     string enunciado;
     public string nameElemento1;
     public string nameElemento2;
 
-    void Start()
-    {
-        BalanceoDeEcucion();
-        MostrarEcuacion();
-        FormularEcuacion();
-    }
-
- 
-    void Update()
-    {
   
-    }
 
+    public Estequeome(float medidor, int v1,int v2,string variable1, string variable2)
+    {
+        valorQueSeTiene = medidor;
+        valencia1 = v1;
+        valencia2 = v2;
+        nameElemento1 = variable1;
+        nameElemento2 = variable2;
+    }
 
     public void MostrarEcuacion()
     {
@@ -82,11 +76,19 @@ public class Estequeome : MonoBehaviour
     {
         //elemento1 = elemento1 + valencia1;
         //elemento2 = elemento2 + valencia2;
-
-        incognita = valorQueSeTiene * (coeficienteEstequeometrico1 / coefiicneteEstequeometricoProducto);
-        Debug.Log(incognita+" mol");
+        BalanceoDeEcucion();
+        MostrarEcuacion();
+       
         //productoDeElemento1 = valencia2*(elemento1);
         //productoDeElemento2 = valencia1 * (elemento2);
        
+    }
+
+    public float ResolverEcuacion()
+    {
+        incognita = valorQueSeTiene * (coefiicneteEstequeometricoProducto / coeficienteEstequeometrico1);
+        Debug.Log(incognita + " mol");
+        return incognita;
+
     }
 }
